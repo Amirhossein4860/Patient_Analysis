@@ -25,3 +25,5 @@ Clone the repository and explore the detailed Jupyter notebooks that guide you t
 
 Contributions
 Contributions are welcome! Whether it's improving the outlier detection methods, enhancing the model's accuracy, or expanding the simulation tool, your input can help make this project even more impactful.
+
+clnbklso
